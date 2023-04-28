@@ -1,0 +1,122 @@
+.teal.lighten-5{
+  background-color:#A35448!important
+  }
+  .teal.lighten-4{
+    background-color:#A35448!important
+    }
+    .teal.lighten-3{
+      background-color:#A35448!important
+    }
+      .teal.lighten-2{
+        background-color:#A35448!important
+        }
+        .teal.lighten-1{
+          background-color:#A35448!important
+          }
+          .teal{
+            background-color:#A35448!important
+            }
+            .teal-text{
+              color:#A35448!important
+              }
+              .rgba-teal-slight,.rgba-teal-slight:after{
+                background-color:rgba(0,150,136,.1)
+                }
+                .rgba-teal-light,.rgba-teal-light:after{
+                  background-color:rgba(0,150,136,.3)
+                  }
+                  .rgba-teal-strong,.rgba-teal-strong:after{
+                    background-color:rgba(0,150,136,.7)
+                    }
+                    .teal.darken-1{
+                      background-color:#A35448!important
+                      }
+                      .teal.darken-2{
+                        background-color:#A35448!important
+                        }
+                        .teal.darken-3{
+                          background-color:#A35448!important
+                          }
+                          .teal.darken-4{
+                            background-color:#A35448!important
+                            }
+                            .teal.accent-1{
+                              background-color:#A35448!important
+                              }
+                              .teal.accent-2{
+                                background-color:#A35448!important
+                                }
+                                .teal.accent-3{
+                                  background-color:#A35448!important
+                                  }
+                                  .teal.accent-4{
+                                    background-color:#A35448!important
+                                    }
+
+.teal:hover{
+  background-color:#A35448;color:#fff
+  }
+.btn-teal.active,.btn-teal:active,.btn-teal:focus{
+  background-color:#A35448
+}
+.teal-btn.active,.btn-teal:active,.btn-teal:focus{
+  background-color:#A35448
+}
+.btn-teal.dropdown-toggle{
+  background-color:#A35448!important
+}
+.btn-teal.dropdown-toggle:focus,.btn-teal.dropdown-toggle:hover{
+  background-color:#A35448!important
+}
+.btn-teal:not([disabled]):not(.disabled).active,.btn-teal:not([disabled]):not(.disabled):active,.show>.btn-teal.dropdown-toggle{background-color:#001311!important}
+.teal-ic{color:#A35448!important}
+.teal-ic:focus,.teal-ic:hover{color:#A35448}
+.btn-outline-teal{
+  border:2px solid #A35448!important;
+  background-color:transparent!important;
+  color:#A35448!important
+  }
+  .btn-outline-teal.active,.btn-outline-teal:active,.btn-outline-teal:active:focus,.btn-outline-teal:focus,.btn-outline-teal:hover{
+    border-color:#A35448!important;
+    background-color:transparent!important;
+    color:#A35448!important
+    }
+    .btn-outline-teal:not([disabled]):not(.disabled).active,.btn-outline-teal:not([disabled]):not(.disabled):active,.show>.btn-outline-teal.dropdown-toggle{
+      background-color:transparent!important;
+      border-color:#A35448!important
+      }
+
+.pagination.pg-teal .page-item.active .page-link,.pagination.pg-teal .page-item.active .page-link:hover{background-color:#A35448}
+.pagination.pg-dark-grey .page-item.active .page-link,.pagination.pg-dark-grey .page-item.active .page-link:hover{background-color:#A35448}
+.pagination.pg-dark .page-item.active .page-link,.pagination.pg-dark .page-item.active .page-link:hover{background-color:#A35448}
+.pagination.pg-blue-grey .page-item.active .page-link,.pagination.pg-blue-grey .page-item.active .page-link:hover{background-color:#A35448}
+
+
+/* .holder{height:85vh;background:#2196f3;scroll-behavior:smooth}
+
+.holder-2{height:100vh;background-color:#f5f5f5}
+.holder-2 .container-2{width:90%;margin:auto;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around}
+.holder-2 .container-2 .explore-section{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.holder-2 .container-2 .explore-section .item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.holder-2 .container-2 .explore-section .item h1{font-family:"Avant Garde";color:#2196f3;font-size:1.5rem;padding:15px 20px}
+.holder-2 .container-2 .sign-in-section{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.holder-2 .container-2 .sign-in-section h1{font-family:"Avant Garde";color:#2196f3;padding:15px 0px}
+.holder-2 .container-2 .sign-in-section .form-class{width:290px;background:white;padding:40px 20px}
+.jumbotron .info-holder{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;width:100%}
+.jumbotron .info-holder .info-desc{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.jumbotron .info-holder .info-desc h2{font-family:"Avant Garde";font-size:1.3rem;font-weight:550}
+@media (max-width: 1024px){
+  .holder{height:85vh}}
+
+@media (max-width: 768px){
+  .holder{height:85vh}}
+  #error-holder{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+  #error-holder .error{padding:4px 20px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;width:250px;height:40px;margin-top:44px;right:20px;background-color:#f7604c;color:ivory;-webkit-animation:showError .5s linear  1 normal both;animation:showError .5s linear  1 normal both}
+  #error-holder .error p{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size:0.9rem}
+  #error-holder .error #close-btn{color:black;font-weight:bold;font-size:1.2rem;cursor:pointer}
+  #error-holder .success{padding:4px 20px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;width:250px;height:40px;margin-top:44px;right:20px;background-color:#32b65a;color:ivory;-webkit-animation:showError .5s linear  1 normal both;animation:showError .5s linear  1 normal both}
+  #error-holder .success p{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size:0.9rem}
+  #error-holder .success #close-btn{color:black;font-weight:bold;font-size:1.2rem;cursor:pointer}.modal-content{position:absolute;background-color:rgba(0,0,0,0.35);-webkit-filter:blur(10000);filter:blur(10000);width:100%;top:0;left:0;height:100vh;z-index:1000;display:none;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+
+.logo{font-size:2rem;font-family:"Avant Garde";color:seashell}
+.logo-md{font-size:1.6rem;font-family:"Avant Garde";color:#51adf6} */
